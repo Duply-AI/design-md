@@ -1,0 +1,11 @@
+The DESIGN.md analyses in this repository (the files under designs/) are original
+documentation of publicly observable design decisions, provided under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to use, share, and adapt them, including commercially, provided you
+give attribution to duply (https://duply.ai).
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Terms of use:      https://duply.ai/terms
+
+The tooling under scripts/ is provided as-is under the MIT License.
