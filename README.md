@@ -68,7 +68,7 @@ That is the whole workflow. Browse every system with live previews at [duply.ai/
 
 Every entry links to its full page on duply.ai (previews, tokens, downloads) and to the raw file here.
 
-<details>
+<details open>
 <summary><b>Browse all 311 design systems (A to Z)</b></summary>
 
 | Design system | About | File |
